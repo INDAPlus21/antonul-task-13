@@ -8,4 +8,5 @@ https://www.cs.rhodes.edu/welshc/COMP141_F16/ppmReader.html
 
 ![](coolSpheres.png?raw=true "Title")
 
-### Test
+### Disclaimer
+Jag är noob på programmering så följde [Ray tracing in oen weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html) förstod det mesta, försöker visa det genom kommentarer men men...
