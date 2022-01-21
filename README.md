@@ -6,4 +6,4 @@
 Använde:
 https://www.cs.rhodes.edu/welshc/COMP141_F16/ppmReader.html
 
-![Alt text](coolSpheres.jpg?raw=true "Title")
+![](coolSpheres.png?raw=true "Title")
